@@ -1,0 +1,8 @@
+.spanStyle {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+}
+.divForSpan {
+    margin: 10px;
+}

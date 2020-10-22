@@ -1,35 +1,27 @@
 .App {
-
+ text-align: center;
 }
-
 
 .links {
-    transform: translateX(-100%);
-    transition: 1s;
-    position: fixed;
-    background-color: skyblue;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    width: 200px;
-    height: 200px;
-}
-
-.linksOpen {
-    transform: translateX(0%);
-    position: fixed;
-    transition: 1s;
-    background-color: skyblue;
-    width: 200px;
-    height: 200px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    padding: 20px;
+    height: 90%;
+    padding: 10px;
 }
 
 .sss {
+    transform: translateX(-95%);
+    transition: 1s;
     position: fixed;
+    background-color: skyblue;
+    width: 200px;
+    height: 200px;
+    border-radius: 0 10px 10px 0;
+}
+.sss:hover{
+    transform: translateX(0%);
+    transition: 1s;
 }
 
 .menu {
