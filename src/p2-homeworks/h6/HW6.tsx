@@ -21,7 +21,7 @@ function HW6() {
             homeworks 6
 
             {/*should work (должно работать)*/}
-            <div className={onMouseEnter ? s.message : s.doubleClick}>DoubleClick for changes</div>
+            {/*<div className={onMouseEnter ? s.message : s.doubleClick}>DoubleClick for changes</div>*/}
             <div className={s.superSpan} onMouseEnter={() => setOnMouseEnter(true)} onMouseLeave={() => setOnMouseEnter(false)}>
                 <SuperEditableSpan
                     value={value}
