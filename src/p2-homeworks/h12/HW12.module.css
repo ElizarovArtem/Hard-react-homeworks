@@ -21,3 +21,15 @@
 .some-text {
     color: darkslateblue;
 }
+.sky {
+    background: linear-gradient(45deg,skyblue, beige);
+}
+.sky-text {
+    color:olive;
+}
+.night {
+    background: linear-gradient(to left, darkblue,darkgreen 10%, darkblue, blueviolet);
+}
+.night-text {
+    color:beige;
+}
