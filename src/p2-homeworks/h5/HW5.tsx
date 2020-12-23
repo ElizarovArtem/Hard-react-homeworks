@@ -8,6 +8,7 @@ export function HW5() {
 
     return (
         <div className={s.h5}>
+
             {/*в gh-pages лучше работает HashRouter*/}
             <HashRouter>
 
