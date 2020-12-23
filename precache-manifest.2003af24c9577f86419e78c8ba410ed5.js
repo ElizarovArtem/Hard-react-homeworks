@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d69a4730bfc96245b8385cfb02e99e39",
+    "revision": "3f8bbca67459a248fa508f98eba8cb2d",
     "url": "/Hard-react-homeworks/index.html"
   },
   {
-    "revision": "775e4b32c36ac3c02c9a",
-    "url": "/Hard-react-homeworks/static/css/main.8d35d7c7.chunk.css"
+    "revision": "38d5ddf8c3a1f6e5662c",
+    "url": "/Hard-react-homeworks/static/css/main.25da58ac.chunk.css"
   },
   {
-    "revision": "1e26f84f0db4beba06e4",
-    "url": "/Hard-react-homeworks/static/js/2.921c9116.chunk.js"
+    "revision": "eefe6b561ef13e01effb",
+    "url": "/Hard-react-homeworks/static/js/2.0f890f64.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/Hard-react-homeworks/static/js/2.921c9116.chunk.js.LICENSE.txt"
+    "url": "/Hard-react-homeworks/static/js/2.0f890f64.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "775e4b32c36ac3c02c9a",
-    "url": "/Hard-react-homeworks/static/js/main.eba53a26.chunk.js"
+    "revision": "38d5ddf8c3a1f6e5662c",
+    "url": "/Hard-react-homeworks/static/js/main.d36b18e0.chunk.js"
   },
   {
     "revision": "bb2930c3a87ef7d25d4b",
